@@ -1,1 +1,17 @@
 # awesome-nipype
+
+1. [ASLPrep](https://github.com/PennLINC/aslprep)
+1. [Clinica](https://www.clinica.run/)
+1. [C-PAC](https://fcp-indi.github.io/)
+1. [FitLins](https://fitlins.readthedocs.io/en/latest/)
+1. [fMRIPrep](https://fmriprep.org/en/stable/)
+1. [Giraffe.tools](https://giraffe.tools/)
+1. [Halfpipe](https://github.com/HippocampusGirl/Halfpipe)
+1. [Lyman](https://www.cns.nyu.edu/~mwaskom/software/lyman/)
+1. [PyNets](https://pynets.readthedocs.io/en/latest/)
+1. [Macapype](https://macatools.github.io/macapype/)
+1. [Mindboggle](https://mindboggle.info/)
+1. [MRIQC](https://mriqc.readthedocs.io/en/latest/)
+1. [Neuropycon/Ephypype/Graphpype](https://neuropycon.github.io/ephypype/)
+1. [Nipreps](https://nipreps.org/)
+1. [QSIPrep](https://qsiprep.readthedocs.io/en/latest/)
